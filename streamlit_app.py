@@ -9,8 +9,8 @@ import pandas as pd
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-    page_title="Inventory tracker",
-    page_icon=":shopping_bags:",  # This is an emoji shortcode. Could be a URL too.
+    page_title="Inventaire S.L.M.",
+    page_icon=":wrench:",  # This is an emoji shortcode. Could be a URL too.
 )
 
 
@@ -171,7 +171,7 @@ def update_data(conn, df, changes):
 
 # Set the title that appears at the top of the page.
 """
-# :shopping_bags: Inventory tracker
+# :wrench: Inventaire S.L.M.
 
 **Welcome to Alice's Corner Store's intentory tracker!**
 This page reads and writes directly from/to our inventory database.
