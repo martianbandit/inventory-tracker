@@ -20,7 +20,7 @@ LOGGED_IN = __login__obj.build_login_ui()
 
 if LOGGED_IN == True:
 
-
+   st.markown("Your Streamlit Application Begins here!")
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
     page_title="Inventaire S.L.M.",
