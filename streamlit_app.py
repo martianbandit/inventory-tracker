@@ -189,6 +189,8 @@ st.im
 
 st.image(
     url = "https://assets2.lottiefiles.com/packages/lf20_jcikwtux.json"
+)
+    
 **Welcome to Alice's Corner Store's intentory tracker!**
 This page reads and writes directly from/to our inventory database.
 """
